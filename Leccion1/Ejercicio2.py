@@ -1,0 +1,8 @@
+num1 = int(input("Numero 1: "))
+num2 = int(input("Numero 2: "))
+print(f"{num1} + {num2} = {num1 + num2}")
+print(f"{num1} - {num2} = {num1 - num2}")
+print(f"{num1} x {num2} = {num1 * num2}")
+print(f"{num1} / {num2} = {num1 / num2}")
+print(f"{num1} // {num2} = {num1 // num2}")
+print(f"El resto de {num1} / {num2} = {num1 % num2}")
